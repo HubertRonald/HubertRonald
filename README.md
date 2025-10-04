@@ -50,8 +50,8 @@
   <a href="https://www.hackerrank.com/hubert_ronald" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Ver%20Mis%20Badges-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
   </a>
-  <a href="URL_DE_TU_CERTIFICADO_PLATZI_3" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Platzi-Data%20Science-74C72B?style=flat-square&logo=platzi&logoColor=white" alt="Certificado Platzi Data Science"/>
+  <a href="https://platzi.com/p/hubertronald/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Platzi-MLOps-74C72B?style=flat-square&logo=platzi&logoColor=white" alt="Certificado Platzi MLOps"/>
   </a>
   <a href="URL_DE_TU_CERTIFICADO_COURSERA_3" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Coursera-Python%20for%20Everybody-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Certificado Coursera Python"/>
@@ -64,3 +64,4 @@
 <h2 align="left">My GitHub History:</h2>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertronald&" alt="hubertronald" /></p>
+[](https://platzi.com/p/hubertronald/)
