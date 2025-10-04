@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: he / him
  
-- ⚡ Fun fact **The term “Artificial Intelligence” was born in 1956** - but I like to think humans have been chasing “intelligent patterns” since poetry, math, and music were born.
+- ⚡ Fun fact: **The term “Artificial Intelligence” was born in 1956** - but I like to think humans have been chasing “intelligent patterns” since poetry, math, and music were born.
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
