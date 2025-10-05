@@ -75,4 +75,4 @@
 
 <h2 align="left">My GitHub History:</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HubertRonald)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertronald&" alt="hubertronald" />HubertRonald</p>
