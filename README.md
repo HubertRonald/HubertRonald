@@ -75,4 +75,4 @@
 
 <h2 align="left">My GitHub History:</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertronald&" alt="hubertronald" />HubertRonald</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertronald&" alt="hubertronald" /></p>
