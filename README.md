@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can explore my current and upcoming projects at [https://hubertronald.github.io/](https://hubertronald.github.io/)
 
-- 💬 Ask me about **GCP, AWS, DataLake, or how literature (like [César Vallejo](https://en.wikipedia.org/wiki/C%C3%A9sar_Vallejo)) can inspire data embeddings and clustering projects.**
+- 💬 Ask me about **GCP, AWS, Data Lakes, or how literature (like [César Vallejo](https://en.wikipedia.org/wiki/C%C3%A9sar_Vallejo)) can inspire [data embeddings, clustering and classification](https://github.com/HubertRonald/PoesiaEmbeddingsClusteringClassification) projects.**
 
 - 😄 Pronouns: he / him
  
