@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Platzi-MLOps-74C72B?style=flat-square&logo=platzi&logoColor=white" alt="Certificado Platzi MLOps"/>
   </a>
   <a href="https://www.hackerrank.com/hubert_ronald" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Ver%20Mis%20Badges-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
+    <img src="https://img.shields.io/badge/HackerRank:Badges-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank Certificate"/>
   </a>
   <a href="https://www.udemy.com/user/hubertronald/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Udemy-IT-EC5252?style=flat-square&logo=udemy&logoColor=white" alt="IT"/>
