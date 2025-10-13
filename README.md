@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can explore my current and upcoming projects at [https://hubertronald.github.io/](https://hubertronald.github.io/)
 
-- 💬 Ask me about **GCP, AWS, PySpark, Sklearn, or how literature (like [César Vallejo](https://griffinpoetryprize.com/poet/cesar-vallejo/)) can inspire [data embeddings, clustering and classification](https://github.com/HubertRonald/VersoVector) projects.**
+- 💬 Ask me about **GCP, AWS, PySpark, Sklearn, or how literature (like [César Vallejo](https://en.wikipedia.org/wiki/C%C3%A9sar_Vallejo)) can inspire [data embeddings, clustering and classification](https://github.com/HubertRonald/VersoVector) projects.**
 
 - 😄 Pronouns: he / him
  
