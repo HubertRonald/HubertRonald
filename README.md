@@ -7,6 +7,8 @@
 
 - 💬 Ask me about **GCP, AWS, PySpark, Sklearn, or how literature (like [César Vallejo](https://en.wikipedia.org/wiki/C%C3%A9sar_Vallejo)) can inspire [data embeddings, clustering and classification](https://github.com/HubertRonald/VersoVector) projects.**
 
+- 🧩 My answers on Stack Overflow (Spanish) have reached over **150k readers**.
+
 - 😄 Pronouns: he / him
  
 - ⚡ Fun fact: **The term “Artificial Intelligence” was born in 1956** - but I like to think humans have been chasing “intelligent patterns” since poetry, math, and music were born.
