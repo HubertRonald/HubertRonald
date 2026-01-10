@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **GCP, AWS, PySpark, Sklearn, or how literature (like [César Vallejo](https://en.wikipedia.org/wiki/C%C3%A9sar_Vallejo)) can inspire [data embeddings, clustering and classification](https://github.com/HubertRonald/VersoVector) projects.**
 
-- 🧩 My answers on Stack Overflow (Spanish) have reached over **150k readers**.
+- 🧩 My answers on Stack Overflow (Spanish) have reached over **160k readers**.
 
 - 😄 Pronouns: he / him
  
