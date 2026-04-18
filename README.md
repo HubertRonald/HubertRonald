@@ -16,7 +16,9 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://es.stackoverflow.com/users/88852/hubertronald?tab=profile" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" /></a>&nbsp;&nbsp;<a href="https://kaggle.com/hubertronald" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://kaggle.com/hubertronald" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/hubertronald" target="_blank" rel="noreferrer">
