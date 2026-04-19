@@ -15,9 +15,7 @@
 
 <h2 align="left">Connect with me:</h2>
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" />](https://es.stackoverflow.com/users/88852/hubertronald?tab=profile)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />](https://kaggle.com/hubertronald)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />](https://www.hackerrank.com/hubertronald)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" />](https://es.stackoverflow.com/users/88852/hubertronald?tab=profile)&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />](https://kaggle.com/hubertronald)&nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />](https://www.hackerrank.com/hubertronald)
 
 
 
