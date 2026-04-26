@@ -60,6 +60,14 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td><a href="https://spark.apache.org/pyspark/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="PySpark" width="40" height="40"/></a></td>
+    <td><a href="https://www.databricks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" alt="Databricks" width="40" height="40"/></a></td>
+    <td><a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="40" height="40"/></a></td>
+    <td><a href="https://hive.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/></a></td>
+  </tr>
+</table>
 
 <h2 align="left">Certifications:</h2>
 <p align="left">
