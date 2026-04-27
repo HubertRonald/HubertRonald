@@ -78,6 +78,16 @@
   </tr>
 </table>
 
+<table border="0">
+  <tr>
+    <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a></td>
+    <td><a href="https://geopandas.org/" target="_blank"><img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/logo/geopandas_icon.png" alt="GeoPandas" width="40" height="40"/></a></td>
+    <td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a></td>
+    <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a></td>
+    <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a></td>
+  </tr>
+</table>
+
 <h2 align="left">Certifications:</h2>
 <p align="left">
   <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/fd1a4adb651346fcaadf3c0826d72033" target="_blank" rel="noreferrer">
