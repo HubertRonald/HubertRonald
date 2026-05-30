@@ -5,7 +5,7 @@
 
 - 👨‍💻 You can explore my current and upcoming projects at [https://hubertronald.github.io/](https://hubertronald.github.io/)
 
-- 💬 Ask me about **GCP, AWS, PySpark, Sklearn and how poetry, music, and emotional language can inspire [can inspire semantic recommendation systems](https://github.com/HubertRonald/VersoVector).**
+- 💬 Ask me about **GCP, AWS, PySpark, Sklearn and how poetry, music, and emotional language can inspire [semantic recommendation systems](https://github.com/HubertRonald/VersoVector).**
 
 - 🧩 My answers on Stack Overflow (Spanish) have reached over **160k readers**.
 
