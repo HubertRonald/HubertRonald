@@ -18,6 +18,25 @@ I recently completed my <a href="https://www.coursera.org/degrees/maestria-anali
 
 ## Featured Projects
 
+### 📝 VersoVector
+
+**Emotional-Semantic NLP and MLOps Project**
+
+VersoVector explores poetry and lyrical language as dense forms of emotional, symbolic, and semantic expression. The long-term goal is to evolve it into a mood-aware recommendation engine for poetic and lyrical content.
+
+**Main ideas:**
+
+* Emotional and thematic multilabel tag prediction.
+* Semantic similarity between poems and short texts.
+* Topic modeling, clustering, and visual interpretation.
+* Modular Python architecture.
+* MLOps roadmap: MLflow, model packaging, FastAPI inference, Docker, Cloud Run, Terraform, and CI/CD.
+* Long-term vision: explainable emotional-semantic recommendations for poetry, lyrics, and user-provided text.
+
+Repository: [VersoVector](https://github.com/HubertRonald/VersoVector/tree/feature/mlops-foundation)
+
+---
+
 ### 🏡 MIAD-RAG-RealEstate
 
 **RAG-based Real Estate Recommendation System on GCP**
@@ -37,24 +56,6 @@ Repository: [MIAD-RAG-RealEstate](https://github.com/HubertRonald/MIAD-RAG-RealE
 
 ---
 
-### 📝 VersoVector
-
-**Emotional-Semantic NLP and MLOps Project**
-
-VersoVector explores poetry and lyrical language as dense forms of emotional, symbolic, and semantic expression. The long-term goal is to evolve it into a mood-aware recommendation engine for poetic and lyrical content.
-
-**Main ideas:**
-
-* Emotional and thematic multilabel tag prediction.
-* Semantic similarity between poems and short texts.
-* Topic modeling, clustering, and visual interpretation.
-* Modular Python architecture.
-* MLOps roadmap: MLflow, model packaging, FastAPI inference, Docker, Cloud Run, Terraform, and CI/CD.
-* Long-term vision: explainable emotional-semantic recommendations for poetry, lyrics, and user-provided text.
-
-Repository: [VersoVector](https://github.com/HubertRonald/VersoVector/tree/feature/mlops-foundation)
-
----
 
 ## Current Learning Path
 
