@@ -1,92 +1,132 @@
 
-<h1 align="left">Hi there 👋</h1>
+# Hi there 👋
 
-- 🌱 I’m currently learning <a href="https://www.coursera.org/degrees/maestria-analitica-de-datos-uniandes" target="blank"> MIAD</a> | GPA: 4.8 / 5 😊
+I'm Rony, a data and cloud professional working mainly across LATAM business and technology contexts, focused on building reliable data platforms, applied AI systems, and human-centered recommendation engines.
 
-- 👨‍💻 You can explore my current and upcoming projects at [https://hubertronald.github.io/](https://hubertronald.github.io/)
+I recently completed my <a href="https://www.coursera.org/degrees/maestria-analitica-de-datos-uniandes" target="blank">Master’s program</a>  with a final GPA of 4.82 / 5.00 — a personal and professional milestone that strengthened my path toward AI, Data Architecture, MLOps, Cloud Engineering, and Machine Learning Engineering.
 
-- 💬 Ask me about **GCP, AWS, PySpark, Sklearn and how poetry, music, and emotional language can inspire [semantic recommendation systems](https://github.com/HubertRonald/VersoVector).**
+* 🔭 I’m currently working on projects that combine **cloud, data engineering, machine learning, semantic search, and generative AI**.
+* 🌱 I’m currently deepening my skills in **AI Engineering, Data Architecture, MLOps, and Streaming Systems**.
+* 🚀 Next learning areas: **Kafka, Google Cloud Dataflow, Apache Beam, real-time pipelines, and production-grade ML systems**.
+* ☁️ Ask me about **GCP, AWS, PySpark, BigQuery, Cloud Run, Docker, Terraform, CI/CD, and data pipelines**.
+* 🤖 I’m especially interested in how **poetry, music, emotion, and language** can inspire **semantic recommendation systems**.
+* 💬 My answers on Stack Overflow in Spanish have reached over **160k readers**.
+* 🎸 Personal motto: **logic meets creativity 💾🎸🌻**
+* 😄 Pronouns: **he / him**
 
-- 🧩 My answers on Stack Overflow (Spanish) have reached over **160k readers**.
+---
 
-- 😄 Pronouns: he / him
- 
-- ⚡ Fun fact: **The term “Artificial Intelligence” was born in 1956** - but I like to think humans have been chasing “intelligent patterns” since poetry, math, and music were born.
+## Featured Projects
 
-<h2 align="left">Connect with me:</h2>
-<table border="1" bordercolor="white">
-  <tr>
-    <td align="center">
-      <a href="https://es.stackoverflow.com/users/88852/hubertronald?tab=profile" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://kaggle.com/hubertronald" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.hackerrank.com/hubertronald" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+### 🏡 MIAD-RAG-RealEstate
 
+**RAG-based Real Estate Recommendation System on GCP**
 
-<h2 align="left">Languages and Tools:</h2>
-<table border="0">
-  <tr>
-    <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
-    <td><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a></td>
-    <td><a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/></a></td>
-    <td><a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a></td>
-    <td><a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a></td>
-    <td><a href="https://www.json.org/json-es.html" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/json.svg" alt="JSON" width="40" height="40"/></a></td>
-    <td><a href="https://www.latex-project.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/></a></td>
-    <td><a href="https://www.diagrams.net/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/diagramsdotnet.svg" alt="Draw.io" width="40" height="40"/></a></td>
-  </tr>
-</table>
+A real estate recommendation system for natural-language property search, combining semantic retrieval, structured data enrichment, geospatial visualization, and LLM-based explanations.
 
-<table border="0">
-  <tr>
-    <td><a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a></td>
-    <td><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
-  </tr>
-</table>
+**Main ideas:**
 
-<table border="0">
-  <tr>
-    <td><a href="https://spark.apache.org/pyspark/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="PySpark" width="40" height="40"/></a></td>
-    <td><a href="https://www.databricks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" alt="Databricks" width="40" height="40"/></a></td>
-    <td><a href="https://airflow.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original-wordmark.svg" alt="Airflow" width="40" height="40"/></a></td>
-    <td><a href="https://hive.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="40" height="40"/></a></td>
-  </tr>
-</table>
+* Retrieval-Augmented Generation for real estate recommendations.
+* Semantic search with vector embeddings and FAISS.
+* Structured enrichment with BigQuery.
+* Explanatory responses using Gemini.
+* Frontend and backend deployed on Cloud Run.
+* DevOps foundation with Docker, Terraform, GitHub Actions, Artifact Registry, Secret Manager, and Workload Identity Federation.
 
-<table border="0">
-  <tr>
-    <td><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a></td>
-    <td><a href="https://mariadb.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/></a></td>
-    <td><a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/></a></td>
-  </tr>
-</table>
+Repository: [MIAD-RAG-RealEstate](https://github.com/HubertRonald/MIAD-RAG-RealEstate)
 
-<table border="0">
-  <tr>
-    <td><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a></td>
-    <td><a href="https://geopandas.org/" target="_blank"><img src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/logo/geopandas_icon.png" alt="GeoPandas" width="40" height="40"/></a></td>
-    <td><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a></td>
-    <td><a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a></td>
-    <td><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a></td>
-  </tr>
-</table>
+---
+
+### 📝 VersoVector
+
+**Emotional-Semantic NLP and MLOps Project**
+
+VersoVector explores poetry and lyrical language as dense forms of emotional, symbolic, and semantic expression. The long-term goal is to evolve it into a mood-aware recommendation engine for poetic and lyrical content.
+
+**Main ideas:**
+
+* Emotional and thematic multilabel tag prediction.
+* Semantic similarity between poems and short texts.
+* Topic modeling, clustering, and visual interpretation.
+* Modular Python architecture.
+* MLOps roadmap: MLflow, model packaging, FastAPI inference, Docker, Cloud Run, Terraform, and CI/CD.
+* Long-term vision: explainable emotional-semantic recommendations for poetry, lyrics, and user-provided text.
+
+Repository: [VersoVector](https://github.com/HubertRonald/VersoVector/tree/feature/mlops-foundation)
+
+---
+
+## Current Learning Path
+
+I’m currently evolving from data engineering and cloud analytics toward a broader AI engineering profile:
+
+```text
+Data Engineering
+    ↓
+Cloud Data Architecture
+    ↓
+Machine Learning Engineering
+    ↓
+MLOps and Model Deployment
+    ↓
+Streaming and Real-Time Data Systems
+    ↓
+AI-powered products and recommendation systems
+```
+
+Focus areas:
+
+* AI Engineering and applied machine learning.
+* Data architecture for analytical and operational systems.
+* MLOps foundations: experiment tracking, packaging, deployment, monitoring, and CI/CD.
+* Cloud-native deployments on GCP and AWS.
+* Streaming pipelines with Kafka, Apache Beam, and Dataflow.
+* Semantic search, embeddings, RAG, and explainable recommendation systems.
+
+---
+
+## Languages and Tools
+
+### Programming and Data
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+</p>
+
+### Cloud, Data Engineering and MLOps
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg" alt="Apache Airflow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" width="40" height="40"/>
+</p>
+
+### Databases and Analytics
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</p>
+
+---
 
 <h2 align="left">Certifications:</h2>
 <p align="left">
@@ -107,6 +147,29 @@
   </a>
 </p>
 
-<h2 align="left">My GitHub History:</h2>
+
+---
+
+## Connect with me
+
+* Stack Overflow ES: [HubertRonald](https://es.stackoverflow.com/users/162430/hubertronald)
+* Kaggle: [Hubert Ronald](https://www.kaggle.com/hubertronald)
+* HackerRank: [HubertRonald](https://www.hackerrank.com/hubertronald)
+* Portfolio: [hubertronald.github.io](https://hubertronald.github.io/)
+
+
+---
+
+## My GitHub History
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubertronald&" alt="hubertronald" /></p>
+
+---
+
+## Closing thought
+
+I believe technology is not only about automation, scalability, and performance.
+
+It is also about understanding patterns: in data, in language, in decisions, and in human experience.
+
+Logic meets creativity. 💾🎸🌻
