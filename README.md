@@ -11,6 +11,7 @@ I recently completed my <a href="https://www.coursera.org/degrees/maestria-anali
 * ☁️ Ask me about **GCP, AWS, PySpark, BigQuery, Cloud Run, Docker, Terraform, CI/CD, and data pipelines**.
 * 🤖 I’m especially interested in how **poetry, music, emotion, and language** can inspire **semantic recommendation systems**.
 * 💬 My answers on Stack Overflow in Spanish have reached over **160k readers**.
+* 📦 I maintain open-source projects such as [LuaSF](https://github.com/HubertRonald/LuaSF), a lightweight pure-Lua statistics library now revived with tests, documentation, releases, and LuaRocks packaging.
 * 🎸 Personal motto: **logic meets creativity 💾🎸🌻**
 * 😄 Pronouns: **he / him**
 
@@ -53,6 +54,26 @@ A real estate recommendation system for natural-language property search, combin
 * DevOps foundation with Docker, Terraform, GitHub Actions, Artifact Registry, Secret Manager, and Workload Identity Federation.
 
 Repository: [MIAD-RAG-RealEstate](https://github.com/HubertRonald/MIAD-RAG-RealEstate)
+
+---
+
+### 🌙 LuaSF
+
+**Lua Statistics Functions — Pure Lua Open Source Library**
+
+LuaSF is a lightweight pure-Lua library for descriptive statistics, random variables, and sampling utilities. The project originally started around 2014 and was recently revived with compatibility fixes, tests, documentation, releases, and LuaRocks packaging.
+
+**Main ideas:**
+
+* Pure Lua statistics and random variable utilities.
+* Backward-compatible API revival.
+* Additional helpers for variance, median, quantiles, sampling, weighted choice, and deterministic random generation.
+* Tests, examples, changelog, API documentation, and GitHub releases.
+* Published as a LuaRocks package.
+* Open-source maintenance focused on compatibility, simplicity, and community usability.
+
+Repository: [LuaSF](https://github.com/HubertRonald/LuaSF) <br>
+Package: [luasf on LuaRocks](https://luarocks.org/modules/HubertRonald/luasf)
 
 ---
 
