@@ -34,7 +34,7 @@ VersoVector explores poetry and lyrical language as dense forms of emotional, sy
 * MLOps roadmap: MLflow, model packaging, FastAPI inference, Docker, Cloud Run, Terraform, and CI/CD.
 * Long-term vision: explainable emotional-semantic recommendations for poetry, lyrics, and user-provided text.
 
-Repository: [VersoVector](https://github.com/HubertRonald/VersoVector/tree/feature/mlops-foundation)
+Repository: [VersoVector](https://github.com/HubertRonald/VersoVector)
 
 ---
 
