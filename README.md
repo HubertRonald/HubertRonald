@@ -174,7 +174,7 @@ Focus areas:
 
 ## Connect with me
 
-* Stack Overflow ES: [HubertRonald](https://es.stackoverflow.com/users/162430/hubertronald)
+* Stack Overflow ES: [HubertRonald](https://es.stackoverflow.com/users/88852/hubertronald)
 * Kaggle: [Hubert Ronald](https://www.kaggle.com/hubertronald)
 * HackerRank: [HubertRonald](https://www.hackerrank.com/hubertronald)
 * Portfolio: [hubertronald.github.io](https://hubertronald.github.io/)
